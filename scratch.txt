@@ -1,0 +1,13 @@
+curl -d '[{"id":"1000", "name":"jill", "follows":["1","2","3"], "password":"asdf"},{"id":"1001", "name":"bill", "follows":["1000"], "password":"asdf"}]' -H "Content-Type: application/json" localhost:1337/
+curl -d '[{"id":"1000", "name":"jill", "follows":["1","2","3"], "password":"asdf"},{"id":"1001", "name":"bill", "password":"asdf"}]' -H "Content-Type: application/json" localhost:1337/bulk/users?password=asdf
+
+curl -d '[{"id":"1000", "user_id":"1000", "path":"1.jpg", "timestamp":"1392405505782"}]' -H "Content-Type: application/json" localhost:1337/bulk/streams?password=asdf
+
+curl -d '[{"id":"1", "user_id":"1", "path":"1.jpg", "timestamp":"1392405505782"}]' -H "Content-Type: application/json" localhost:1337/bulk/streams?password=asdf
+
+export MAGICK_HOME="/Users/ik/Developer/ImageMagick-6.8.8/"
+export PATH="$MAGICK_HOME/bin:$PATH"
+export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib/"
+
+curl -H "Content-Type: application/json" --data @users.json localhost:1337/bulk/users?password=asdf
+curl -H "Content-Type: application/json" --data @photos.json localhost:1337/bulk/streams?password=asdf

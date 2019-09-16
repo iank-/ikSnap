@@ -1,0 +1,23 @@
+doctype html
+
+html
+	head
+		title #{title} - ikSnapgram
+		link(rel='stylesheet', href='/stylesheets/style.css')
+body
+	.container
+		.nav
+			.logo Sg
+				.smallname #{username}
+				.small 
+					a(href="/feed") feed
+				.small 
+					a(href="/photos/new") upload
+				.small 
+					a(href="/sessions/new") sign in
+				.small
+					a(href="/users/new") +register
+		.content
+			block content
+
+		

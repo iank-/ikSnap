@@ -1,0 +1,1153 @@
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking node.cs.ucalgary.ca (be patient)...INFO: POST header == 
+---
+GET /feed HTTP/1.0
+Cookie: connect.sid=s%3AyBdPagVq1G3ajpoGyPHBz8Eh.72RxCY%2Bn9VodtCUn%2BCsbeuf5Hs4ZDOidqK31yPm772A
+Host: node.cs.ucalgary.ca:8100
+User-Agent: ApacheBench/2.3
+Accept: */*
+
+
+---
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:28 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:29 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:30 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 7450
+ETag: "1269213544"
+Date: Sat, 05 Apr 2014 03:21:31 GMT
+Connection: close
+
+<!DOCTYPE html><html><head><title>your feed (sukhpreet) - ikSnapgram</title><link rel="stylesheet" href="/stylesheets/style.css"></head></html><body><div class="container"><div class="nav"><div class="logo">Sg<div class="smallname">sukhpreet</div><div class="small"><a href="/feed">feed</a></div><div class="small"><a href="/photos/new">upload</a></div><div class="small"><a href="/sessions/new">sign in</a></div><div class="small"><a href="/users/new">+register</a></div></div></div><div class="content"><div class="header"><your feed (sukhpreet)></your feed (sukhpreet)></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/23.png"><img src="/photos/thumbnail//23.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/154.png"><img src="/photos/thumbnail//154.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><a href="/home/courses/s513/w2014/pics/299.png"><img src="/photos/thumbnail//299.png"></a><div class="caption"><a href="/users/3">sukhpreet - 3 week(s) ago</a></div></div><div class="pictureBlock"><
+LOG: Response code = 200
+..done
+
+
+Server Software:        
+Server Hostname:        node.cs.ucalgary.ca
+Server Port:            8100
+
+Document Path:          /feed
+Document Length:        7450 bytes
+
+Concurrency Level:      10
+Time taken for tests:   2.822 seconds
+Complete requests:      100
+Failed requests:        0
+Write errors:           0
+Total transferred:      763000 bytes
+HTML transferred:       745000 bytes
+Requests per second:    35.44 [#/sec] (mean)
+Time per request:       282.205 [ms] (mean)
+Time per request:       28.220 [ms] (mean, across all concurrent requests)
+Transfer rate:          264.03 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        3   29  20.1     27      72
+Processing:    56  240  84.6    238     898
+Waiting:       52  230  52.5    233     350
+Total:         79  269  83.0    269     927
+
+Percentage of the requests served within a certain time (ms)
+  50%    269
+  66%    283
+  75%    289
+  80%    296
+  90%    344
+  95%    359
+  98%    362
+  99%    927
+ 100%    927 (longest request)

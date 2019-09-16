@@ -1,0 +1,92 @@
+Presentations:
+
+-- Cloud web service deployment: --
+> Results:
+	4% of alexa's top million domains are using cloud services.
+	Most popular {Amazon, LinkedIn, Pinterest, Ask, Apple}
+	
+> How used?
+	> Mostly VM front-end and Azure
+	
+> Impact on outages
+	> Region - 90% fail
+	> Zone - >75%
+	> Service - Moderate
+	
+> What could be improved
+	> Region usage, expadning regions and zones would increase reliability and improve latency.
+	
+> Findings:
+	> Most applications are not taking full advantage of tools to increase reliablility ...
+
+> Well done:
+	> approach to minimizing error
+> Improvement:
+	> address proximity based id had 25% error rate
+	> dns servers outside of ec2/azure
+	
+	
+-- To evaluate or not --
+Yinzcam- provides realtime scores, news, photos.
+ 
+Issues due to spikes in traffic.
+
+During a game, they had large spikes in traffic. 100x regular day.
+
+Autoscaling techniques vs. Software Optimization techniques (throw more hw at it or optimize sw)
+>	Different workload prediction models
+>	Use of these models for prediction
+
+Autoscaling:
+> amazon thing
+> allocates more servers as needed
+
+Assumptinos:
+> assumed similar to others comparing same things
+> assumed bottleneck was CPU
+> assumed they couldn't predict where inside of a game spikes would occur
+
+Baseline system
+Autoscaled case
+Optimized case
+
+Compared resource utilization for these
+
+Results:
+
+Baseline system
+Autoscaled case
+Optimized case
+> 1/8th usage of autoscaled
+> lower latency (better)
+
+Good stuff:
+> shows optimizations are importnant
+
+
+-- Power Budgeting -- 
+> Available power may no be enough
+> How to make power more efficient
+	> Before, would lower clock speeds of under utilized computers
+	> Bad for machines that host several virtual machines
+	> Didn't take into account workoad differences
+	> Would lower response times across the board.
+	> Only used CPU clock speed
+	
+	Solution
+	> VPS, virtualized power switching
+	> Run independent of the server
+	> Power limits enforced at application level
+	> Limit less important client time slices on the processor
+	> Does not limit users' ability to operate if power demands are below the current threshold
+	> Additional controls could be included in the framework
+	
+Assumptions:
+	> LImits can be forced at app level
+	> Power can be measured
+	> Assumes not a lot of spikes
+	> CPU consumption dictates power changes, not disk usage, etc.
+	
+	
+--  --
+	

@@ -1,0 +1,78 @@
+app.get('/feed', userLoggedIn, function(req, res) {
+		//console.log(req.user);
+		
+		var feedContentsAsSnapgramPhotos = [];
+
+		// all photos for logged in user:
+		//console.log("[i] getting images for user " + req.user.user_id + " from db..");
+		var query = "SELECT photo.filename AS filename, photo.photo_folder_path AS photo_folder, photo.thumbnail_folder_path AS thumbnail_folder, photo.date_added AS added FROM photo WHERE photo.owner_user_id = " 
+			+ dbConnectionPool.escape(req.user.user_id) + ";";
+	
+		//console.log("[i] performing query : " + query);
+
+		dbConnectionPool.query(query, function(err, result, fields) {
+			if (err) throw err;
+			
+			if (result.length < 1) {
+				res.render('feed', {
+					title : ("your feed (" + req.user.username + ")"),
+					header : ("your feed is empty!"),
+					username : req.user.username,
+					followable : false,
+					unfollowable : false,
+					id : req.user.user_id
+				});
+			}
+
+			var i;
+			for (i = 0; i < result.length; i++) {
+				var d = result[i].added.toString().split(/[- :]/);
+				var date = new Date(d[1] + " " + d[2] + " " + d[3]);
+
+				var newImage = new SnapgramPhoto(
+					req.user.full_name, 
+					req.user.user_id, 
+					(result[i].photo_folder + result[i].filename), 
+					(result[i].thumbnail_folder + result[i].filename), 
+					date);
+				//console.log(newImage);
+				feedContentsAsSnapgramPhotos.push(newImage);
+			}
+			
+			//console.log("[i] getting images for followers from db..");
+			var query = "select full_name as owner_full_name, owner_user_id,photo.filename AS filename, photo.photo_folder_path AS photo_folder, photo.thumbnail_folder_path AS thumbnail_folder, date_added as date from photo JOIN user on owner_user_id = user.user_id where photo.owner_user_id in (select following_user_id from following where follower_user_id =" 
+				+ dbConnectionPool.escape(req.user.user_id) + ");";
+	
+			//console.log("[i] performing query : " + query);
+
+			dbConnectionPool.query(query, function(err, result, fields) {
+				if (err) throw err;
+
+				var i;
+				for (i = 0; i < result.length; i++) {
+					var d = result[i].date.toString().split(/[- :]/);
+					var date = new Date(d[1] + " " + d[2] + " " + d[3]);
+
+					var newImage = new SnapgramPhoto(
+						result[i].owner_full_name, 
+						result[i].owner_user_id,
+						(result[i].photo_folder + result[i].filename), 
+						(result[i].thumbnail_folder + result[i].filename), 
+						date);
+
+					feedContentsAsSnapgramPhotos.push(newImage);
+					//console.log("sending : " + feedContentsAsSnapgramPhotos);
+					
+				}
+				res.render('feed', {
+					title : ("your feed (" + req.user.username + ")"),
+					header : ("your feed (" + req.user.username + ")"),
+					imageArray : feedContentsAsSnapgramPhotos, //switch jade to use this next. Keep going, Ian.
+					username : req.user.username,
+					followable : false,
+					id : req.user.user_id
+				});
+			})
+		})
+
+	})

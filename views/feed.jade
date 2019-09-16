@@ -1,0 +1,19 @@
+extend layout 
+block content 
+	.header 
+		#{header} 
+		- if (followable) 
+			a(href="/users/#{id}/follow") 
+				.small  > follow this stream
+		
+		- if (unfollowable) 
+			a(href="/users/#{id}/unfollow") 
+				.small  > unfollow this stream
+		
+	- if (imageArray)
+		each image, i in imageArray
+			.pictureBlock
+				a(href="#{imageArray[i].url}") 
+					img(src="#{imageArray[i].thumbUrl}")
+				.caption 
+					a(href="/users/#{imageArray[i].ownerId}") #{imageArray[i].desc}

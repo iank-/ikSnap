@@ -1,0 +1,20 @@
+extend layout 
+block content 
+	h1 Please sign in.
+	
+	form(name='input' action='/sessions/create', method='post')
+		
+		- if (message)
+			.message
+				span=message
+		
+		.line Username
+		.line
+			input(type="text", name="username", width="200px")
+			
+		.line Password
+		.line
+			input(type="password", name="password", width="200px")
+
+		.line 
+			input(type="submit", value="Login", width="100px")

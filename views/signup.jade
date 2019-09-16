@@ -1,0 +1,21 @@
+extend layout 
+block content 
+	h1 Please provide the following credentials.
+	
+	form(action='/users/create', method='POST')
+		
+		- if (messages.info)
+			.message.info
+				span=messages.info
+		
+		.line Full name
+		input(type="text", name="fullName")
+
+		.line Username
+		input(type="text", name="username")
+			
+		.line Password
+		input(type="password", name="password")
+
+		.line 
+			input(type="submit", value="Sign up")

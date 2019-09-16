@@ -1,0 +1,12 @@
+extend layout 
+block content 
+	h1 upload to #{username}'s feed
+	
+	form(action="/photos/create", method="POST", enctype="multipart/form-data")
+		
+		- if (messages.info)
+			.message.info
+				span=messages.info
+				
+		input(type="file", name="image")
+		input(type="submit", value="Upload!")

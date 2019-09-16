@@ -1,0 +1,9 @@
+extend layout 
+block content 
+	.header #{header}
+
+	each image, i in imageArray
+		.pictureBlock
+			a(href="#{'/photos/' + imageArray[i].urls}") 
+				img(src="#{'/photos/thumbnail/' + imageArray[i].urls}")
+			.caption #{captionArray[i]}
